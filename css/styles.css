@@ -338,6 +338,7 @@ header {
   display: flex;
   justify-content: center;
   flex-wrap: nowrap;
+  margin-bottom: 72px;
 }
 
 .port-btn {
