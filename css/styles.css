@@ -32,8 +32,8 @@ ul {
 }
 
 .section {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
 .link {
   text-decoration: none;
@@ -241,7 +241,7 @@ header {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--main-text-color);
-  padding-bottom: 72px;
+  margin-bottom: 72px;
 }
 
 .team-img {
@@ -341,6 +341,10 @@ header {
   margin-bottom: 72px;
 }
 
+.port-nav{
+margin-right: 24px;
+}
+
 .port-btn {
   font-family: "Roboto", sans-serif;
   font-style: normal;
@@ -359,7 +363,6 @@ header {
   margin-top: 96px;
   margin: auto;
   padding: 12px 24px;
-  margin-right: 24px;
 }
 
 .port-btn:hover {
@@ -382,12 +385,15 @@ header {
   padding-left: 16px;
 }
 
+.card {
+  margin-bottom: 48px;
+}
+
 .port-example-item {
   box-sizing: border-box;
   border: 1px solid #e7e9fc;
   border-top: none;
-  max-width: 360px;
-  margin-bottom: 48px;
+  max-width: 360px;0.
 }
 
 .port-example-name {
